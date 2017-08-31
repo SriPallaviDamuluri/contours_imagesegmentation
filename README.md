@@ -1,2 +1,2 @@
 # contours_imagesegmentation
-To use contours in opencv to segment features of our Interest in an image 
+To use contours from opencv to segment features of our Interest in an image 
